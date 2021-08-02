@@ -1,4 +1,4 @@
-var wakeuptime = 7;
+var wakeuptime = 6;
 var noon = 12;
 var lunchtime = 12;
 var naptime = lunchtime + 2;
